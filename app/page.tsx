@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>发生的</div>
+    <div>发生的==</div>
   );
 }
